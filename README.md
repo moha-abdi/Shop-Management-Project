@@ -58,13 +58,15 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 ## Screenshots
-![Screenshot 1](screenshots/screenshot7.png)
 
---
+---
 
-![Screenshot 2](screenshots/screenshot4.png)
+<img src="/path/to/screenshot7.png" alt="Screenshot 1" width="400">
 
---
+---
 
-![Screenshot 3](screenshots/screenshot3.png)
+<img src="/path/to/screenshot4.png" alt="Screenshot 2" height="300">
 
+---
+
+<img src="/path/to/screenshot3.png" alt="Screenshot 3" width="600">
