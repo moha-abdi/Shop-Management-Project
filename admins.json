@@ -1,0 +1,36 @@
+{
+    "users": [
+        {
+            "username": "moha",
+            "password": "moha123",
+            "user_type": "admin"
+        },
+        {
+            "username": "merji",
+            "password": "merji123",
+            "user_type": "admin"
+        },
+        {
+            "username": "ahmed",
+            "password": "ahmed123",
+            "user_type": "admin"
+        },
+        {
+            "username": "bilan",
+            "password": "bilan123",
+            "user_type": "admin"
+        },
+        {
+            "username": "nimco",
+            "password": "noura2233",
+            "user_type": "admin"
+        },
+        {
+            "username": "maxamed",
+            "password": "1234",
+            "user_type": "adminr"
+        }
+
+    ]
+
+}
