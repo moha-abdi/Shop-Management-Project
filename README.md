@@ -61,7 +61,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ---
 
-<img src="screenshots/screenshot7.png" alt="Screenshot 1" width="300"> <img src="/screenshots/screenshot4.png" alt="Screenshot 2" height="300">
+<img src="screenshots/screenshot7.png" alt="Screenshot 1" width="300"> <img src="/screenshots/screenshot4.png" alt="Screenshot 2" width="300">
 
 ---
 
