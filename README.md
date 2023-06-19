@@ -14,7 +14,7 @@ This is a Python application for managing invoices and transaction history. It p
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/dashboard-application.git
+git clone https://github.com/moha-abdi/Shop-Management-Project
 ```
 2. Change the project directory:
 
